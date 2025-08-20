@@ -15,3 +15,7 @@ override.tf.json
 .terraform.lock.hcl
 
 *.backup
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.*
