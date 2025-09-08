@@ -54,23 +54,23 @@ Update the paths in main.tf if needed.
 
 ## Usage
 
-Login to Azure CLI (if not already):
+### Login to Azure CLI (if not already):
 ```bash
 az login
 ```
-Initialize Terraform:
+### Initialize Terraform:
 ```bash
 terraform init
 ```
-Plan the deployment:
+### Plan the deployment:
 ```bash
 terraform plan
 ```
-Apply the configuration:
+### Apply the configuration:
 ```bash
 terraform apply
 ```
-Access the web server:
+### Access the web server:
 
 After deployment, Terraform will output the public IP. You can access the NGINX server in your browser:
 ```bash
