@@ -1,6 +1,6 @@
 #  Azure Web Server Infrastructure with Terraform
 
-This project provisions a basic web server infrastructure on Microsoft Azure using Terraform. It sets up a Linux virtual machine (Ubuntu) with NGINX installed and accessible over HTTP and SSH.
+This provisions a basic web server infrastructure on Microsoft Azure using Terraform. It sets up a Linux virtual machine (Ubuntu) with NGINX installed and accessible over HTTP and SSH.
 
 ---
 
